@@ -3,7 +3,7 @@
 def display_board
   cell = "   "
   div = "|"
-  3.times(prints cell + div)
+  3.times(print cell + div)
 end
 
 display_board
