@@ -5,3 +5,5 @@ def display_board
   div = "|"
   puts(3*(cell + div))
 end
+
+display_board
